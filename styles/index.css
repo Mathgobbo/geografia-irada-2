@@ -21,3 +21,10 @@ body {
 /* Stop purging. */
 
 /* Your own custom utilities */
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/NunitoSans-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
